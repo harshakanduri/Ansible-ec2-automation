@@ -1,4 +1,4 @@
-# Ansible Realtime project
+# Ansible EC2 Automation
 
 ## Task 1
 
@@ -17,6 +17,7 @@ instances.
 Automate the shutdown of Ubuntu Instances only using Ansible Conditionals
 
 Hint: Use `when` condition on ansible `gather_facts`
+
 
 
 
